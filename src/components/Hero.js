@@ -38,11 +38,13 @@ const Hero = () => {
 							<MiddleBtnContainer className='button-container'>
 								<div>
 									<table>
-										<tr>
-											<td>+</td>
-											<td>1</td>
-											<td>-</td>
-										</tr>
+										<tbody>
+											<tr>
+												<td>+</td>
+												<td>1</td>
+												<td>-</td>
+											</tr>
+										</tbody>
 									</table>
 								</div>
 								<div>
